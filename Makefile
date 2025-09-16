@@ -128,6 +128,10 @@ UPROGS=\
 	$U/_forktest\
 	$U/_grep\
 	$U/_init\
+	$U/_HelloWorld\
+	$U/_trace\
+	$U/_bttest\
+	$U/_alarmtest\
 	$U/_kill\
 	$U/_ln\
 	$U/_ls\
